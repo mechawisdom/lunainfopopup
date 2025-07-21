@@ -15,7 +15,13 @@
 
 ---
 
-## 🚀 Kurulum ve Kullanım
+
+
+https://github.com/user-attachments/assets/b6481cea-bc31-4c8f-bfc7-afefe0d36bc1
+
+
+
+## 🚀 Kurulum
 
 ### 1. `settings.gradle` dosyanıza JitPack’i ekleyin:
 
@@ -28,10 +34,10 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-
+```
 implementation("com.github.mechawisdom:lunainfopopup:1.0.0")
 
-
+## 🚀 Kullanım
 val popup = LunaInfoPopup(this, lifecycle)
     .setCornerRadius(12f)
     .setPaddingDp(16)
@@ -40,3 +46,6 @@ val popup = LunaInfoPopup(this, lifecycle)
     .setWidth(PopupWidth.LARGE)
     .setTextSizeSp(16f)
     .setFontFamily(Typeface.SANS_SERIF)
+
+
+
