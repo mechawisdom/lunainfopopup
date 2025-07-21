@@ -32,9 +32,13 @@ dependencyResolutionManagement {
     }
 }
 ```
-implementation("com.github.mechawisdom:lunainfopopup:1.0.0")
 
+```
+implementation("com.github.mechawisdom:lunainfopopup:1.0.0")
+```
 ## 🚀 Kullanım
+
+```
 val popup = LunaInfoPopup(this, lifecycle)
     .setCornerRadius(12f)
     .setPaddingDp(16)
@@ -43,6 +47,6 @@ val popup = LunaInfoPopup(this, lifecycle)
     .setWidth(PopupWidth.LARGE)
     .setTextSizeSp(16f)
     .setFontFamily(Typeface.SANS_SERIF)
-
+```
 
 
