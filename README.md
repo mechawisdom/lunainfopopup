@@ -4,6 +4,9 @@
 
 ---
 
+https://github.com/user-attachments/assets/b6481cea-bc31-4c8f-bfc7-afefe0d36bc1
+
+
 ## ✨ Özellikler
 
 - 🎨 Dinamik tema desteği (gündüz/gece)
@@ -14,12 +17,6 @@
 - 🔼 Üstten veya alttan gösterim üçgeni
 
 ---
-
-
-
-https://github.com/user-attachments/assets/b6481cea-bc31-4c8f-bfc7-afefe0d36bc1
-
-
 
 ## 🚀 Kurulum
 
